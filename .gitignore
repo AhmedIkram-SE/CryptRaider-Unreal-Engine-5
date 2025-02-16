@@ -1,0 +1,37 @@
+# Ignore Binaries and Build Files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/
+
+# Ignore User Settings and Cache
+.vscode/
+.idea/
+*.userprefs
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+
+
+# Ignore Auto-Generated Files
+*.log
+*.pdb
+*.obj
+*.exe
+*.dll
+*.tmp
+*.db
+*.sdf
+
+# Ignore System Files
+.DS_Store
+Thumbs.db
+
+# Ignore Other Temporary Files
+*.bak
+*.old
+*.swp
